@@ -41,3 +41,6 @@ Aplicamos un filtro en el listado de facturas para agruparlas por cliente y proc
 Tras activar el modo desarrollador mediante el parámetro "?debug=1" en la URL, se ha inspeccionado la vista de lista de contactos obteniendo la siguiente información técnica:
 
 ![alt text](image-10.png)
+
+
+Declaración de IA: Usé gemini para encontrar cosas en el propio servicio de odoo, no era muy intuitivo y, por ejemplo, en el Ejercicio 1, la usé para que me indicara qué producto era el que coincidía con el tipo que buscaba.
