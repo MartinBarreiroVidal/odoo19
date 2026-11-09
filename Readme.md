@@ -1,19 +1,19 @@
 ## Tarea09 - Implantación de Odoo
 
 ### Ejercicio 1:
-1º Tipo:
+1º Tipo: Bienes con Rastrear inventario:
 
 ![alt text](image-1.png)
 
-2º Tipo:
+2º Tipo: Bienes sin Rastrear inventario:
 
 ![alt text](image-2.png)
 
-3º Tipo:
+3º Tipo: Servicio
 
 ![alt text](image-3.png)
 
-4º Tipo:
+4º Tipo: Combinación
 
 ![alt text](image-4.png)
 
